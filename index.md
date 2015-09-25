@@ -20,7 +20,7 @@
 
 ## Publications
 - On the combinatorics of binary serires-parallel graphs
-`Micha Hofri,` **Chao Li**, `Hosam Mahmoud`
+`Micha Hofri;` **Chao Li**; `Hosam Mahmoud`
 > Accepted by Probability in the Engineering and Informational Science.
 
 - Recovering All Generalized Order-Preserving Submatrices: New Exact Formulations and Algorithms
@@ -29,8 +29,7 @@
 
 ## Book
 - Semidefinite Programming, Binary Codes and a Graph Coloring Problem
-`Chao Li`
-
+`Chao Li`;
 > ISBN-13: 978-3-659-76426-4, LAP LAMBERT Academic Publishing
 
 ## Projects
