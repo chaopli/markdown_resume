@@ -28,7 +28,7 @@
 > Accepted by Annals of Operations Research
 
 ## Book
-- Semidefinite Programming, Binary Codes and a Graph Coloring Problem
+Semidefinite Programming, Binary Codes and a Graph Coloring Problem
  `Chao Li` 
   > LAP LAMBERT Academic Publishing, ISBN-13: 978-3-659-76426-4
 
