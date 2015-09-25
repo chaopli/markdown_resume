@@ -29,9 +29,7 @@
 
 ## Book
 - Semidefinite Programming, Binary Codes and a Graph Coloring Problem
-`Chao Li`
->
-> ISBN-13: 978-3-659-76426-4, LAP LAMBERT Academic Publishing
+> `Chao Li` ISBN-13: 978-3-659-76426-4, LAP LAMBERT Academic Publishing
 
 ## Projects
 * Semidefinite programming, binary codes and a graph coloring problem `Sep 2014 - May 2015`
